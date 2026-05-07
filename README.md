@@ -14,7 +14,7 @@
 
 🎓 **B.Tech in Computer Science & Engineering** at **NIT Jalandhar**  
 💻 **React Native Developer** with **Node.js & MongoDB**  
-🚀 **Open Source Contributor @ Exceed NIT**  
+🚀 **Open Source Contributor @ XCEED NITJ**  
 🧠 Practicing **DSA using C++**  
 📱 Passionate about building **real-world applications**  
 
