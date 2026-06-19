@@ -75,7 +75,7 @@
 
 ## 🏆 Experience & Contributions
 
-- 🚀 **Open Source Contributor at Exceed NIT**
+- 🚀 **Open Source Contributor at XCEED NITJ**
 - 🏫 Building **Hostel Leave Management App**
 - 🤖 Built Deep Learning models using **PyTorch (ANN & CNN)**
 - 🧠 HackMol 6.0 Participant
@@ -97,7 +97,6 @@
 
 ## 🌐 Connect With Me
 
-- 🌍 Website: **https://www.praveenyadav.com.np**
 - 💼 LinkedIn: **https://www.linkedin.com/in/praveen-yadav-3b048323b/**
 - 🟤 CodeChef: **https://www.codechef.com/users/pravdev**
 - 🟧 LeetCode: **https://leetcode.com/u/yadavprabin092/**
