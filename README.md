@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Praveen Yadav</h1>
 <h3 align="center">B.Tech CSE @ NIT Jalandhar | Open Source Contributor | App Developer</h3>
 
@@ -105,4 +105,3 @@
 ---
 
 ⭐ *Always learning, always improving, always building.*
-```
