@@ -1,107 +1,152 @@
-# Hi 👋, I'm Praveen Yadav
+<div align="center">
 
-🎓 B.Tech Computer Science & Engineering Student at **NIT Jalandhar**  
-💻 Backend & Full Stack Developer | 🤖 AI/ML Enthusiast  
-🚀 Building scalable applications using **Go, Node.js, React Native, and Machine Learning**
+<h1>
+Hi 👋, I'm Praveen Yadav
+</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parbin-12&label=Profile%20Views&color=blue&style=flat" />
+<h3>
+🚀 Backend Developer | 🤖 AI/ML Enthusiast | ☁️ Cloud Native Learner
+</h3>
+
+<p>
+B.Tech Computer Science & Engineering Student at <b>NIT Jalandhar</b>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=parbin-12&label=Profile%20Views&color=blue&style=flat"/>
+
+</div>
+
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-- 🔭 Currently working on **Backend Development using Go**
-- 🌱 Learning **Cloud Native Technologies (Docker, Kubernetes, Prometheus, Grafana)**
-- 🤖 Exploring **Machine Learning & Deep Learning using PyTorch**
-- 🧠 Building projects using **ANN, CNN, and Computer Vision**
-- ⚙️ Learning **Hyperparameter Optimization using Optuna**
-- 🚀 Open Source Contributor at **XCEED NITJ**
-- 💡 Interested in **AI Systems, Backend Engineering, Distributed Systems**
-- 🧠 Practicing Data Structures & Algorithms using C++
+
+<table>
+<tr>
+<td width="50%">
+
+
+🎓 B.Tech CSE @ NIT Jalandhar  
+
+💻 Backend Developer  
+
+🐹 Learning Go Backend Development  
+
+🤖 Exploring Machine Learning & Deep Learning  
+
+🧠 Building ANN, CNN and Computer Vision Models  
+
+⚙️ Learning Kubernetes, Docker, Prometheus  
+
+🚀 Open Source Contributor @ XCEED NITJ  
+
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+</td>
+
+</tr>
+</table>
+
 
 ---
 
 # 🛠️ Tech Stack
 
 
-## 👨‍💻 Programming Languages
+## 👨‍💻 Languages
 
-<p>
+<div align="center">
+
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+
+</div>
 
 
 ---
 
-# 🤖 AI / Machine Learning / Deep Learning
+## 🤖 AI / Machine Learning
 
-<p>
+
+<div align="center">
+
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-</p>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
 
-**Skills**
-
-```
-ANN
-CNN
-Deep Learning
-Computer Vision
-Data Preprocessing
-Model Training
-Feature Engineering
-Hyperparameter Optimization
-Optuna
-```
+</div>
 
 
----
+<p align="center">
 
-# 📱 Frontend & Mobile Development
+ANN • CNN • Deep Learning • Computer Vision  
+<br>
+Data Processing • Model Training • Optuna Optimization
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 
 ---
 
-# ⚙️ Backend & Database
+# ⚙️ Backend Development
 
-<p>
-<img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+
+<div align="center">
+
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</p>
+
+
+</div>
 
 
 ---
 
-# ☁️ DevOps & Cloud
+# ☁️ DevOps
 
-<p>
+
+<div align="center">
+
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-</p>
+
+
+</div>
 
 
 ---
@@ -109,116 +154,80 @@ Optuna
 # 🚀 Featured Projects
 
 
-## 🏠 Hostel Leave Management System
+<table>
 
-A mobile application for managing hostel leave requests digitally.
+<tr>
 
-**Tech Stack**
-
-```
-React Native
-Node.js
-MongoDB
-Firebase
-```
+<td width="50%">
 
 
----
-
-## 🤖 Deep Learning Projects
-
-Implemented:
-
-- Artificial Neural Networks
-- Convolutional Neural Networks
-- Computer Vision Models
-- Image Classification
-
-**Tech Stack**
-
-```
-Python
-PyTorch
-OpenCV
-NumPy
-Pandas
-```
-
-
----
-
-## ⚡ Backend Engineering Projects
-
-Currently building production-style backend systems.
-
-**Tech Stack**
-
-```
-Go
-Echo/Gin
-PostgreSQL
-Redis
-Docker
-JWT Authentication
-REST APIs
-```
-
-
----
-
-# 🧠 DSA & Competitive Programming
-
-Platforms:
-
-<p>
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</p>
-
-
-Currently practicing:
-
-- Data Structures
-- Algorithms
-- Problem Solving
-- Competitive Programming using C++
-
-
----
-
-# 🏆 Experience & Contributions
-
-- 🚀 Open Source Contributor at **XCEED NITJ**
-- 🏫 Building Hostel Leave Management Application
-- 🤖 Developed Deep Learning Models using PyTorch
-- 🧠 HackMol 6.0 Participant
-- 📱 Built multiple React Native applications
-
-
----
-
-# 📊 GitHub Stats
+<h3 align="center">
+🏠 Hostel Leave Management
+</h3>
 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=parbin-12&show_icons=true&theme=tokyonight"/>
+Mobile application for hostel leave requests.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parbin-12&layout=compact&theme=tokyonight"/>
+<br><br>
+
+<b>Tech:</b>
+
+React Native • Node.js • MongoDB
 
 </p>
 
 
----
+</td>
 
-# 🔥 GitHub Streak
+
+<td width="50%">
+
+
+<h3 align="center">
+🤖 Deep Learning Projects
+</h3>
 
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parbin-12&theme=tokyonight"/>
+ANN, CNN and Computer Vision models.
+
+<br><br>
+
+<b>Tech:</b>
+
+Python • PyTorch • OpenCV
 
 </p>
+
+
+</td>
+
+</tr>
+
+
+</table>
+
+
+---
+
+# 📊 GitHub Analytics
+
+
+<div align="center">
+
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=parbin-12&show_icons=true&theme=tokyonight"/>
+
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=parbin-12&layout=compact&theme=tokyonight"/>
+
+
+</div>
 
 
 ---
@@ -226,24 +235,31 @@ Currently practicing:
 # 🌐 Connect With Me
 
 
-💼 LinkedIn  
-https://www.linkedin.com/in/praveen-yadav-3b048323b/
+<div align="center">
 
 
-🟤 CodeChef  
-https://www.codechef.com/users/pravdev
+<a href="https://linkedin.com/in/praveen-yadav-3b048323b">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
 
-🟧 LeetCode  
-https://leetcode.com/u/yadavprabin092/
+<a href="https://github.com/parbin-12">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
 
 
-🐙 GitHub  
-https://github.com/parbin-12
+<a href="https://leetcode.com/u/yadavprabin092/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+
+</div>
 
 
 ---
 
-# ⭐ Quote
+<div align="center">
 
-> "Always learning, always improving, always building." 🚀
+⭐ **Always learning, always improving, always building 🚀**
+
+</div>
