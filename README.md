@@ -141,19 +141,6 @@ I regularly practice problem solving and algorithms using **C++**.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parbin-12&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parbin-12&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parbin-12&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
